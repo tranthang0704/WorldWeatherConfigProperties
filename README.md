@@ -1,0 +1,2 @@
+# WorldWeatherConfigProperties
+storing config properties
