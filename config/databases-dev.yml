@@ -1,0 +1,13 @@
+# PostgreSQL
+spring:
+  datasource:
+    url: jdbc:postgres://eols-dev:5433/postgres
+    username: postgres
+    dbpass: postgres
+    driver-class-name: org.postgresql.Driver
+    maxActive: 5
+aws:
+  s3:
+    bucketName: learning-content
+    accessKey: S3-ACCESS-DEV
+    secretKey: S3-SECRET-DEV
